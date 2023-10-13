@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @emmiduh
-- 👀 I’m interested in Cloud Computing and Python Programming Language
-- 🌱 I’m currently learning backend appliaction development using Python and Django
-- 💞️ I’m looking to collaborate on Cloud Solutions Architecting and Python development
+- 👀 You're welcome here!
+- 🌱 My ICT interests are Networking, Cloud Computing and Security
+- 💞️ I’m available to collaborate with you on any related project 
 - 📫 How to reach me emmiduh93@gmail.com | linked.com/in/emmanuel-iduh 
 
 <!---
