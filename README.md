@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @emmiduh
+- 👋 Hi, I’m Emmanuel Iduh
 - 👀 You're welcome here!
 - 📫 My ICT interests are Networking, Cloud Computing and Software Development
 - 💞️ I’m available to collaborate with you on any related project 
