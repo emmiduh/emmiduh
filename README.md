@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Emmanuel Iduh
 - 👀 You're welcome here!
-- 📫 My ICT interests are Networking, Cloud DevOps and Cybersecurity
+- 📫 My ICT interests are Cybersecurity, Artificial Intelligence and DevOps
 - 💞️ I’m available to collaborate with you on any related project 
 - 🌱 You can reach me emmiduh93@gmail.com | www.linkedin.com/in/emmanuel-iduh 
 
